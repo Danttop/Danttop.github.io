@@ -37,6 +37,10 @@ section {
   margin-bottom: 20px;
 }
 
+img {
+  width: 100%;
+}
+
 @font-face {
   font-family: Roboto;
   src: url("../fonts/Roboto/Roboto-VariableFont_wdth,wght.ttf");
